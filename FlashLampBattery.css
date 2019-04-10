@@ -1,0 +1,15 @@
+img
+{
+    width: 100px;
+    height: 100px;
+}
+
+#img1
+{
+    border: 1px solid red;
+}
+
+#img2
+{
+    border: 1px solid blue;
+}
